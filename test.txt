@@ -75,6 +75,59 @@ border -  Define border for all HTML element.
 padding - defines space between your text and border
 margin - space between your border
 
+HTML FORMS:
+---------------
+It is required to collect some data from the user.
+ex : Name, Email, Phone
+<form>
+form elements
+</form>
+
+HTTP Methods - GET, PUT, POST, DELETE(CRUD OPERATION)
+
+HTML FORM CONTROLS
+--------------------
+1. Text Input control - Single line Input, Password Input, Multiline Input
+2. Checkbox control
+3. Radiobox control
+4. Selectbox control
+5. File control
+6. Hidden control
+7. Clickable button
+8. Submit and reset button
+
+Block Level Element and Inline Element:
+----------------------------------------
+Block level element occupies entire space of the parent element.
+it always start with the new line.
+
+Block Level Elements:
+-------------------------
+h1-h6
+<table>
+<p>
+<div>
+<form>
+<video>
+<hr>
+<address>
+<header>
+<footer>
+
+Inline Element:
+------------------
+<span>
+<a>
+<button>
+<sub>
+<sup>
+<textarea>
+<label>
+<b>
+<strong>
+<img>
+
+
 
 
 
