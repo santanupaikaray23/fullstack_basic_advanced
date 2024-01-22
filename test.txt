@@ -1,0 +1,80 @@
+completed videos:2
+->NPM will help us to install packages.
+->Express is a web framework for nodejs.
+->nodejs is an environment to run tha javascript in the backend.
+
+Javascript - it has used for Frontend validation
+           - It has used for minorr HTML Manipulation
+           - Making AJAX CALL
+           -Angular JS
+           -Backbinejs
+           -Angular
+           -Reactjs
+
+           2009 - Ryan Dhal - That helped javascript to run the backend - nodejs
+           M - MongoDB - BSON/JSON
+           E - Expressjs - javascript
+           A - Angular - javascript
+           N - Nodejs - javascript
+npm init
+npm install package(Express)
+this will create node_modules folder
+
+vaniall javascript - var
+ES6/ECMA Script - const, let
+
+nodemon will help us to run our server automatically.
+
+callback function :
+It is function when you pass the parameter to another function.
+function sample(a,b){
+    console.log(a,b)
+    b()
+}
+sample(1,function(){
+    console.log('Hello')
+})
+
+-> Any browser can understand 3things
+1-HTML
+2-CSS
+3-Javascript
+
+->Whatever we write inside head that is metadata.
+->whatever you write inside body it will display inside browser.
+
+HTML -  What is your website contains.
+CSS - How your website should look like
+javascript - Manipulate HTML ELEMENTS, Create new html, Delete, Update 
+For navigation purpose we are basically use anchor tag in html
+
+src = it is a attribute.It is a quality or characteristic given to a person,group, some other thing.
+
+ul - unordered list - when no order is required
+ol -  other list -  will display items in an order
+
+space between element : &nbsp
+
+HTML / CSS
+------------------
+CSS - Cascading Stylesheet - To format the layout of my webpage
+    - By using css we can control the color, font, size of the text,
+    element position, background-color, images,bg colors etc.
+
+CSS - Can be added to HTML document in 3 ways
+Inline - By using style attribute inside HTML element
+Internal - By using <style> element in <head> section
+External - By using <link> element to link external CSS.
+
+CSS Colors, Fonts, Sizes
+------------------------------
+color : defines the text of your color
+font-falimy - defines font to be used
+font-size - defines size of the font
+border -  Define border for all HTML element.
+padding - defines space between your text and border
+margin - space between your border
+
+
+
+
